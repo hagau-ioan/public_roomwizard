@@ -1,4 +1,4 @@
-# Home Wizard Calendar
+# Room Wizard Calendar for Home
 ## Technology, language, libraries, architecture:
 This app is running as a system app.
 1. Kotlin + Coroutines + Flows
