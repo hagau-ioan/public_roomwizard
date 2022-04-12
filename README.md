@@ -29,6 +29,6 @@ This app is running as a system app.
 ##### Google Calendar Intergration II.
 ![alt text](https://roomwizard.hagau.ro/roomwizard-screens/roomwizard-google-calendar-list-event.png)
 ##### Sample of the source code
-![alt text](https://roomwizard.hagau.ro/roomwizard-screens/sample-of-code-architecture.png)
+![alt text](https://roomwizard.hagau.ro/roomwizard-screens/sample-of-code-architecture-2.png)
 ##### Real device with the app. Red color Light means that a current event is happening NOW. There is also GREEN when no event is happening now.
 ![alt text](https://roomwizard.hagau.ro/roomwizard-screens/roomwizard-realdevice-led-red-event-in-progress.jpg)
